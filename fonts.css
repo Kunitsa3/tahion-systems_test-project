@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Gill Sans Nova';
+  src: local('Gill Sans Nova Medium'), local('Gill-Sans-Nova-Medium'),
+    url('assets/fonts/GillSansNova-Medium.woff2') format('woff2'),
+    url('assets/fonts/GillSansNova-Medium.woff') format('woff'),
+    url('assets/fonts/GillSansNova-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DIN Pro Light';
+  src: url('assets/fonts/DINPro-Light.eot');
+  src: url('assets/fonts/DINPro-Light.eot?#iefix') format('embedded-opentype'),
+    url('assets/fonts/DINPro-Light.woff') format('woff'),
+    url('assets/fonts/DINPro-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
